@@ -1,2 +1,1 @@
-# FACToRI
-learn AI Foundations &amp; Engineering
+# FACToRI: Foundations, Algebra & Calculus to Research & Implementation
